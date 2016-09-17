@@ -1,0 +1,1 @@
+sh /Users/nmohammed/Tools/SoapUI-5.2.1/bin/loadtestrunner.sh -s"ValidateGlobalWeatherSoap" -c"TestGetCitiesByCountry" -r -f/Users/nmohammed/Workspace/soapui-tutorials/reports/ /Users/nmohammed/Workspace/soapui-tutorials/globalweather-soapui-project.xml
