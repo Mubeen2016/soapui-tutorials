@@ -4,6 +4,7 @@ import net.webservicex.GeoIP;
 import net.webservicex.GeoIPService;
 import net.webservicex.GeoIPServiceSoap;
 
+//http://www.webservicex.net/geoipservice.asmx?WSDL
 public class TestGeoIPWebService2 {
 	public static void main(String args[]) {
 

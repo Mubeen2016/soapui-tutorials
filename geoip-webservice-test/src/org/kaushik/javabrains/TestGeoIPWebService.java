@@ -1,6 +1,7 @@
 package org.kaushik.javabrains;
 import net.webservicex.*;
 
+//http://www.webservicex.net/geoipservice.asmx?WSDL
 public class TestGeoIPWebService {
 	
 	public static void main(String args[]){
